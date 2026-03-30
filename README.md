@@ -44,7 +44,7 @@
 ## 📫 Connect With Me  
 
 - 🔗 GitHub: https://github.com/prityj058-gif  
-- 🔗 LinkedIn: (Add your LinkedIn link here)  
+- 🔗 Gmail: Prityj058@gmail.com
 
 ---
 

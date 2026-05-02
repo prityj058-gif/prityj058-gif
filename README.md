@@ -14,10 +14,13 @@
 
 **📌 Programming:**
 - Python (Pandas, NumPy - Basic)  
+
 **📌 Database:**  
 - SQL (MySQL)  
+
 **📌 Visualization:**  
 - Power BI, Tableau  
+
 **📌 Tools:**  
 - Excel, Jupyter Notebook  
 

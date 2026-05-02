@@ -13,13 +13,10 @@
 
 **📌 Programming:**  
 - Python (Pandas, NumPy - Basic)  
-
 **📌 Database:**  
 - SQL (MySQL)  
-
 **📌 Visualization:**  
 - Power BI, Tableau  
-
 **📌 Tools:**  
 - Excel, Jupyter Notebook  
 
@@ -59,11 +56,6 @@
 - 🔗 GitHub: https://github.com/prityj058-gif  
 - 💼 LinkedIn: https://www.linkedin.com/in/prity-jaiswal-1a079539a  
 - 📧 Email: prityj058@gmail.com  
-
----
-
-## 📈 GitHub Stats  
-*(Add GitHub stats badge later for better profile look)*  
 
 ---
 

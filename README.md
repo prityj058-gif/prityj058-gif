@@ -11,7 +11,7 @@
 
 ## 🛠️ Skills  
 
-**📌 Programming:**  
+ **📌 Programming:**  
 - Python (Pandas, NumPy - Basic)  
 **📌 Database:**  
 - SQL (MySQL)  

@@ -1,53 +1,85 @@
- # Hi there 👋, I'm Prity Jaiswal  
+# Hi there 👋, I'm Prity Jaiswal
 
-## 🚀 Aspiring Data Analyst  
+📊 Data Analyst | Excel | SQL | Power BI
 
-🔍 Passionate about turning data into actionable insights  
-📊 Skilled in Python, SQL, Power BI, and Excel  
-🎯 Currently building real-world data analytics projects  
-💼 Actively looking for Data Analyst opportunities  
-
----
-
-## 🛠️ Skills  
-
-- **Programming:** Python (Pandas, NumPy)  
-- **Database:** SQL (MySQL)  
-- **Visualization:** Power BI, Tableau  
-- **Tools:** Excel, Jupyter Notebook  
+🔍 Passionate about turning data into actionable insights
+📊 Skilled in Excel, SQL, Power BI, and Python (basics)
+🎯 Building real-world data analytics projects
+💼 Open to Internship and Freelance Opportunities
 
 ---
 
-## 📊 Projects  
+## 🛠️ Skills
 
-### 🔹 Retail Customer Behavior Analysis  
-- Analyzed customer purchase patterns  
-- Built interactive Power BI dashboard  
-- Generated business insights for revenue growth  
+**📌 Programming:**
 
-### 🔹 Fraud Detection Analysis  
-- Identified fraudulent transactions  
-- Performed data cleaning and EDA  
+* Python (Pandas, NumPy - Basic)
 
-### 🔹 E-commerce Customer Analysis  
-- Explored customer segmentation  
-- Analyzed purchase trends  
+**📌 Database:**
 
----
+* SQL (MySQL)
 
-## 📈 GitHub Stats  
+**📌 Visualization:**
 
-![Prity's GitHub stats](https://github-readme-stats.vercel.app/api?username=prityj058-gif&show_icons=true)
+* Power BI, Tableau
+
+**📌 Tools:**
+
+* Excel, Jupyter Notebook
 
 ---
 
-## 📫 Connect With Me  
+## 📊 Projects
 
-- 🔗 GitHub: https://github.com/prityj058-gif  
-- 🔗 Gmail: Prityj058@gmail.com
+### 🔹 Retail Customer Behavior Analysis
+
+* Analyzed customer purchase patterns
+* Built interactive Power BI dashboard
+* Generated insights to improve revenue strategies
+
+### 🔹 Fraud Detection Analysis
+
+* Identified fraudulent transactions
+* Performed data cleaning and exploratory data analysis (EDA)
+
+### 🔹 E-commerce Customer Analysis
+
+* Performed customer segmentation
+* Analyzed purchasing trends and behavior
 
 ---
 
-## ⚡ Fun Fact  
+## 📜 Certifications
 
-I love solving real-world problems using data 🚀
+* Data Science Job Simulation – BCG (Forage)
+* Data Analytics Job Simulation – Deloitte (Forage)
+* GenAI Data Analytics – Tata Group (Forage)
+* Data Analytics Certification – Mindluster
+
+---
+
+## 🌐 Portfolio
+
+🔗 https://c3560122-af14-4418-9fb0-aac5e9107e88.app-preview.com/
+
+---
+
+## 📫 Connect With Me
+
+* 🔗 GitHub: https://github.com/prityj058-gif
+
+* 💼 LinkedIn: https://www.linkedin.com/in/prity-jaiswal-1a079539a
+
+* 📧 Email: [prityj058@gmail.com](mailto:prityj058@gmail.com)
+
+---
+
+## 📈 GitHub Stats
+
+*(You can add GitHub stats badge here later)*
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy solving real-world problems using data 🚀

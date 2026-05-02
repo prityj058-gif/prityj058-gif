@@ -3,11 +3,8 @@
 📊 Data Analyst | Excel | SQL | Power BI
 
 🔍 Passionate about turning data into actionable insights.
-
 📊 Skilled in Excel, SQL, Power BI, and Python (basics).
-
 🎯 Building real-world data analytics projects.
-
 💼 Open to Internship and Freelance Opportunities.
 
 ---

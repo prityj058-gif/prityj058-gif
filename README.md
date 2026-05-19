@@ -64,4 +64,4 @@
 ---
 
 ## ⚡ Fun Fact  
-I enjoy solving real-world problems using data 🚀
+I enjoy solving real-world problems using data 

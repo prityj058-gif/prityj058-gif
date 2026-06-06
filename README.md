@@ -57,8 +57,7 @@
 ---
 
 ## 📫 Connect With Me  
-- 🔗 GitHub: https://github.com/prityj058-gif  
-- 💼 LinkedIn: https://www.linkedin.com/in/prity-jaiswal-1a079539a  
+- 🔗 GitHub: https://github.com/prityj058-gif    
 - 📧 Email: prityj058@gmail.com  
 
 ---
